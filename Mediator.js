@@ -31,7 +31,7 @@ const mediator = (function() {
       obj.publish = publish
     }
   }
-})()
+})() 
 
 const person = "GV"
 
